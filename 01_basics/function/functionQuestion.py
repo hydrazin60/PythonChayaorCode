@@ -6,5 +6,5 @@ def squareofNumber(n):
     square = n * n
     return square
 
-result = (n)
+result = squareofNumber(n)
 print("Square of the number is : ",  result)
