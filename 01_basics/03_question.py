@@ -16,7 +16,6 @@ elif(60 > studentMarks >= 50):
     grade = "E"
 else:
     grade = "F"  
-
 print("Your grade is ", grade)   
 
 
